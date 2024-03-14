@@ -1,4 +1,4 @@
-initial 2 ahehehe
-=======
 dominic binago initial
->>>>>>> 2a32f82 (altered hello.txt)
+=======
+FRONTSTABAN! 
+>>>>>>> c6afc85 (fronstaban)
