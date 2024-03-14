@@ -1,4 +1,4 @@
 initial 2 ahehehe
 =======
-initial 2 ahehehe
->>>>>>> 5d4791f (edited hello.txt)
+dominic binago initial
+>>>>>>> 2a32f82 (altered hello.txt)
