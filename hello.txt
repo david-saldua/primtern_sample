@@ -1,2 +1,4 @@
-<<<<<<< HEAD
 alpha testing
+=======
+initial 2 ahehehe
+>>>>>>> 03c2d96 (edited hello.txt)
